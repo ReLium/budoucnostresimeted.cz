@@ -19,7 +19,8 @@ body {
 .main-menu .nav-link {
     position: relative;
     text-transform: uppercase;
-    font-size: 1.15rem;
+    font-size: 0.9rem;
+    font-weight: bold;
     transition: color 0.2s;
     color: #343434;
 }
